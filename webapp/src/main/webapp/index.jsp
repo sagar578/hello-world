@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Otp" name="Otp" id="Otp" required>
     <br>
 
+    <label for="password"><b>Enter Password</b></label>
+    <input type="text" placeholder="Enter Password" name="psswd" id="psswd" required>
+    <br>
+
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <hr>
